@@ -1,0 +1,7 @@
+﻿  Kaynak.cpp
+c:\users\user\desktop\udemy c ve c++\4islemhesapmakİnesİ\4islemhesapmakİnesİ\kaynak.cpp(5): error C2065: 'LC_ALL': undeclared identifier
+c:\users\user\desktop\udemy c ve c++\4islemhesapmakİnesİ\4islemhesapmakİnesİ\kaynak.cpp(5): error C3861: 'setlocale': identifier not found
+c:\users\user\desktop\udemy c ve c++\4islemhesapmakİnesİ\4islemhesapmakİnesİ\kaynak.cpp(15): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\user\desktop\udemy c ve c++\4islemhesapmakİnesİ\4islemhesapmakİnesİ\kaynak.cpp(15): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\user\desktop\udemy c ve c++\4islemhesapmakİnesİ\4islemhesapmakİnesİ\kaynak.cpp(15): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\user\desktop\udemy c ve c++\4islemhesapmakİnesİ\4islemhesapmakİnesİ\kaynak.cpp(15): note: this argument is used as a buffer size

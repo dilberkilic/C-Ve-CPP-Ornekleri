@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\desktop\c ve c++\strlenfonkyenidenyazma\strlenfonkyenidenyazma\source.cpp(37): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+c:\users\user\desktop\c ve c++\strlenfonkyenidenyazma\strlenfonkyenidenyazma\source.cpp(39): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+  STRLENFONKYENIDENYAZMA.vcxproj -> C:\Users\user\Desktop\C VE C++\STRLENFONKYENIDENYAZMA\Debug\STRLENFONKYENIDENYAZMA.exe

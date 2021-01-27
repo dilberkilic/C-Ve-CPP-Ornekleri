@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\user\desktop\c ve c++\sabittanimlama\sabittanimlama\kaynak.cpp(10): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char (*)[10][10]'
+  SABITTANIMLAMA.vcxproj -> C:\Users\user\Desktop\C VE C++\SABITTANIMLAMA\x64\Debug\SABITTANIMLAMA.exe

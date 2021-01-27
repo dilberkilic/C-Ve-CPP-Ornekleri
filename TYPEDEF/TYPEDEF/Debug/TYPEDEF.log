@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\desktop\udemy c ve c++\typedef\typedef\source.cpp(17): warning C4101: 'a': unreferenced local variable
+c:\users\user\desktop\udemy c ve c++\typedef\typedef\source.cpp(11): warning C4101: 'ogr1': unreferenced local variable
+  TYPEDEF.vcxproj -> C:\Users\user\Desktop\UDEMY C VE C++\TYPEDEF\Debug\TYPEDEF.exe

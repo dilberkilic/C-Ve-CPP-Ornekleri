@@ -1,0 +1,6 @@
+﻿  Kaynak.cpp
+c:\users\user\desktop\udemy c ve c++\birboyutludizi\birboyutludizi\kaynak.cpp(24): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+  c:\users\user\desktop\udemy c ve c++\birboyutludizi\birboyutludizi\kaynak.cpp(24): note: yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+  c:\users\user\desktop\udemy c ve c++\birboyutludizi\birboyutludizi\kaynak.cpp(24): note: eksik 2 değişen sayıda bağımsız değişkeni '%c' biçim dizesi için gereklidir
+  c:\users\user\desktop\udemy c ve c++\birboyutludizi\birboyutludizi\kaynak.cpp(24): note: bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+  BIRBOYUTLUDIZI.vcxproj -> C:\Users\user\Desktop\UDEMY C VE C++\BIRBOYUTLUDIZI\Debug\BIRBOYUTLUDIZI.exe
